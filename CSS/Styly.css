@@ -24,6 +24,21 @@ color: #606060;
 nav ul li a:hover {
 text-decoration: underline;
 }
+.tlacitko{
+    position: left;
+    background-color: #171717;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 5px;
+    display: block;
+    border: 3px solid #606060;
+    font-size: 17px;
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.7s;
+    animation: tl1 3.8s;
+}
 body {
 background-color: #303030;
 }

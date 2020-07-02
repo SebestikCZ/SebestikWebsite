@@ -28,6 +28,19 @@ h2 {
 font-weight: 100;
 font: bree-serif;
 }
+aside {
+float: right;
+padding-left: 24px;
+width: 34%;
+}
+section {
+background-color: #FFFFFF;
+border: 4px solid rgb(255,0,0);
+margin-bottom: 24px;
+min-height: 320px;
+padding-left: 24px;
+padding-right: 24px;
+}
 .tlacitko{
     position: left;
     background-color: #171717;

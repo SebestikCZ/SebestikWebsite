@@ -41,6 +41,10 @@ min-height: 320px;
 padding-left: 24px;
 padding-right: 24px;
 }
+.blur {
+font-size: 128;
+
+}
 .tlacitko{
     position: left;
     background-color: #171717;

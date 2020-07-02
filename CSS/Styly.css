@@ -24,6 +24,10 @@ color: #606060;
 nav ul li a:hover {
 text-decoration: underline;
 }
+h2 {
+font-weight: 100;
+font: bree-serif;
+}
 .tlacitko{
     position: left;
     background-color: #171717;
@@ -39,6 +43,30 @@ text-decoration: underline;
     transition: 0.7s;
     animation: tl1 3.8s;
 }
+.fill {
+
+          position: absolute;
+
+          top:-1px;
+
+          left:0;
+
+            background:#fff;
+
+            width:0%;
+
+          height:39px;
+
+            -webkit-transition: width .5s ease-in-out;
+
+            -moz-transition: width .5s ease-in-out;
+
+            -o-transition: width .5s ease-in-out;
+
+            transition: width .5s ease-in-out;
+
+        }
+
 body {
 background-color: #303030;
 }

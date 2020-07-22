@@ -46,6 +46,8 @@ font-size: 56;
 
 }
 p.checkbox {
+max-width: 200px;
+max-height: 200px;
 padding-top: 4px;
 padding-left: 4px;
 padding-right: 4px;
